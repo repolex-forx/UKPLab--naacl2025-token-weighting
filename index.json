@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "naacl2025-token-weighting",
+  "versions": [
+    {
+      "commit": "0b2445496fe961bd913e2b96e01ec49570867d7c",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:50:56.318310+00:00"
+    }
+  ]
+}
