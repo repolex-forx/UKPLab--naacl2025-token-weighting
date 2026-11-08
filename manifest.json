@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "UKPLab",
+  "repo": "naacl2025-token-weighting",
+  "versions": [
+    {
+      "commit": "0b2445496fe961bd913e2b96e01ec49570867d7c",
+      "parsed_at": "2026-11-08T18:48:05.744889+00:00",
+      "filetree": "filetree/0b2445496fe961bd913e2b96e01ec49570867d7c.nq.gz",
+      "blobs": [
+        "blob/d1684018f5391d6c76ffcc6038ba0a25290af331.nq.gz",
+        "blob/a102b4c11023cbfc814b662a0b467f989c71530e.nq.gz",
+        "blob/d8b779adeed10fbc49a4b14a6070c27a26e7c0bc.nq.gz",
+        "blob/dbbf88f06790ba0de4191122afcc9048e05d7b34.nq.gz",
+        "blob/4970fb1afe75d7716e27b50972676694512c4ece.nq.gz",
+        "blob/dea401196b0d225826153c3e458d7f33cf55bb0d.nq.gz",
+        "blob/78adf6d3c4f21b9212b9b528fd7ef7ad415b6312.nq.gz",
+        "blob/653ee10c0e463cd611263c8b95bed3593aba2b35.nq.gz",
+        "blob/94a0ec8b1b1e4226fa0f4bd9e853902fff7f6769.nq.gz",
+        "blob/942e623c1b9b9019b28a55ee24e59c9eb2ba38f3.nq.gz",
+        "blob/d8fb4b338efd3ffe7e3f14a83aa6d4a7ea3118e0.nq.gz",
+        "blob/73a8b18c4eb05700ad77ac182221923aeb318fb7.nq.gz",
+        "blob/4bc8f52aeb686cf8f7b94b6de5bbabde54ebc22c.nq.gz",
+        "blob/5208477f0508586a16c8b08b1b8decb0facff778.nq.gz",
+        "blob/962f03473dcb72fe54eee217960ad41cbd3971fe.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/baf3b7b76b4bbc8d93ed801b5b12ab6f3115fc7d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
