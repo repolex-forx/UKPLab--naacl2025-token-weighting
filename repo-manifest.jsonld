@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/naacl2025-token-weighting/commit/0b2445496fe961bd913e2b96e01ec49570867d7c",
       "git:hexsha": "0b2445496fe961bd913e2b96e01ec49570867d7c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:50:56.317897+00:00"
     }
   ]
 }
